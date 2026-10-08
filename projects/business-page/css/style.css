@@ -1,0 +1,23 @@
+body {
+  font-family: 'Libre Caslon Condensed', sans-serif;
+  color:	#371b00;
+}
+ 
+.logo {
+  color:	#f6c783;
+  font-size: 1.8rem;
+}
+ 
+.hero {
+  background-color:	#f6db83;
+}
+ 
+.bg-cream {
+  background-color: #fff7ec;
+}
+ 
+.btn-brown {
+  background-color: #86a6c1;
+  color: white;
+}
+ 
