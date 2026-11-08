@@ -1,0 +1,47 @@
+
+body {
+    background: #fff4f0;
+    color: #443d55;
+    font-family: "Libre Caslon Condensed", Georgia, serif;
+    font-size: 1.25rem;
+    line-height: 1.7;
+    max-width: 34rem;
+    margin: 0 0 0 1in;
+    padding: 4rem 1.5rem 4rem 0;
+}
+ 
+h1 {
+    font-family: "DM Serif Display", Georgia, serif;
+    font-weight: 400;
+    font-size: clamp(3rem, 12vw, 4.5rem);
+    line-height: 1;
+    margin: 0 0 1.25rem;
+    color: #443d55;
+}
+ 
+nav {
+    display: flex;
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+ 
+a {
+    color: #443d55;
+    text-decoration: none;
+}
+ 
+main p {
+    margin-bottom: 1.5rem;
+}
+ 
+.icons {
+    display: flex;
+    gap: 1.25rem;
+    font-size: 1.6rem;
+    margin-top: 2rem;
+}
+ 
+.icon {
+    color: #443d55;
+}
+ 
